@@ -833,6 +833,7 @@ body {
 .post-details {
   font-style: italic;
   font-size: 12px;
+  list-style-type: circle;
 }
 .post-details a {
   display: inline-block;
@@ -854,7 +855,6 @@ body {
 .the-content ul,
 .the-content ol {
   font-size: 13px;
-  font-style: italic;
   padding-left: 20px;
 }
 .the-content ul li,
@@ -1230,4 +1230,8 @@ body {
 
 .normal-cursor {
   cursor: default;
+}
+
+.black {
+  color: #000;
 }
