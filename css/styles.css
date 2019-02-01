@@ -443,7 +443,8 @@ body {
   width: 60px;
   height: 60px;
   display: inline-block;
-  position: fixed;
+  position: absolute;
+  top: 27px;
   z-index: 999;
 }
 .mobile .menu-mobile .item {
@@ -1239,6 +1240,18 @@ body {
   color: #000;
 }
 
+.gray6 {
+  color: #666;
+}
+
 .short-bio p {
   margin-bottom: 50px;
+}
+
+.mt20 {
+  margin-top: 20px;
+}
+
+.mb20 {
+  margin-bottom: 20px;
 }
