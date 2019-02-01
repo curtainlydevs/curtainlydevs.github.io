@@ -1109,6 +1109,9 @@ body {
   .menu-left .header .logo {
     color: #ffffff;
   }
+  .short-bio p {
+    color: #ddd;
+  }
   .header.active,
   .menu-left .header.active {
     -webkit-transform: translateX(0);
@@ -1234,4 +1237,8 @@ body {
 
 .black {
   color: #000;
+}
+
+.short-bio p {
+  margin-top: 20px;
 }
