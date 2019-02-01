@@ -576,7 +576,7 @@ body {
   font-size: 40px;
   color: #000000;
   text-transform: uppercase;
-  padding-bottom: 60px;
+  padding-bottom: 12px;
   letter-spacing: 2px;
   line-height: 40px;
 }
@@ -1240,5 +1240,5 @@ body {
 }
 
 .short-bio p {
-  margin-top: 20px;
+  margin-bottom: 50px;
 }
